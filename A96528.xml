@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bloudy nevves from the Lord Byron, in Wales; declaring the proceedings of the royall party, against the Parliaments forces, and the rising of the Welch-men with long hookes, and the bloudy execution done thereby. Also, a great fight neer the Isle of Anglesea, between the forces commanded  by the Lord Byron, and Col. Horton, with the particulars thereof, and the number killed and taken. And a dangerous fight at Scarbrough Castle in Yorkes, between a party of the Princes forces, and Col. Bethels. Likewise, the resolution of the Levellers of England. And the remonstrance and declaration of Lieut. Gen. Cromwell, concerning the enemies of religion, King, and kingdome. Commanded to be printed and published. O. Crumwell.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96528</idno>
+            <idno type="STC">Wing W2253</idno>
+            <idno type="STC">Thomason E463_15</idno>
+            <idno type="STC">ESTC R205099</idno>
+            <idno type="EEBO-CITATION">99864538</idno>
+            <idno type="PROQUEST">99864538</idno>
+            <idno type="VID">162221</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96528)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162221)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E463[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bloudy nevves from the Lord Byron, in Wales; declaring the proceedings of the royall party, against the Parliaments forces, and the rising of the Welch-men with long hookes, and the bloudy execution done thereby. Also, a great fight neer the Isle of Anglesea, between the forces commanded  by the Lord Byron, and Col. Horton, with the particulars thereof, and the number killed and taken. And a dangerous fight at Scarbrough Castle in Yorkes, between a party of the Princes forces, and Col. Bethels. Likewise, the resolution of the Levellers of England. And the remonstrance and declaration of Lieut. Gen. Cromwell, concerning the enemies of religion, King, and kingdome. Commanded to be printed and published. O. Crumwell.</title>
+                  <author>Wilkinson, Thomas.</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Septemb. 14. Imprinted at London, for G.H.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes a letter signed: Thomas Wilkinson; and "The remonstrance &amp; resolution of the Right Honorable, and truly valiant, Lieut. Gen. Cromwell".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Levellers --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162221:1" rendition="simple:additions"/>
+            <p>BLOUDY NEVVES FROM THE Lord Byron, IN WALES;</p>
+            <p>Declaring The proceedings of the Royall Pa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty, againſt the Parliaments Forces, and the riſing of the <hi>Welch-men</hi> with long hookes, and the bloudy execution done thereby.</p>
+            <p>Alſo, a great Fight neer the Iſle of <hi>Angl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſea,</hi> between the For<g ref="char:EOLhyphen"/>ces commanded by the Lord <hi>Byron,</hi> and Col. <hi>Horton,</hi> with the particulars thereof, and the number killed and taken. And a dangerous Fight at <hi>Scarbrough</hi> Caſtle in <hi>Yorkes,</hi> between a Party of the Princes Forces, and Col. <hi>Bethels.</hi>
+            </p>
+            <p>Likewiſe, The Reſolution of the Levellers of <hi>England.</hi> And the <hi>Remonſtrance</hi> and <hi>Declaration</hi> of Lieut. Gen. <hi>C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omwell,</hi> concerning the Enemies of <hi>Religion, King,</hi> and <hi>King<g ref="char:EOLhyphen"/>dome. Commanded to be printed and pub<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d.</hi>
+            </p>
+            <p>O. CRUMWELL.</p>
+            <p>
+               <hi>Septemb.</hi> 14. Imprinted at <hi>London,</hi> for <hi>G H.</hi> 1648.</p>
+            <pb facs="tcp:162221:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:162221:2"/>
+            <head>
+               <hi>A bloudy fight in</hi> Wales. <hi>betwixt the</hi> L. Byron, <hi>and</hi> Col. Horton, <hi>and the</hi> L. Byrons <hi>Reſolution and proceedings, touching the Parliaments forces, and his vowing to take reveng for the death of Sir</hi> Charles Lucas, <hi>his brother in Law</hi>
+            </head>
+            <opener>
+               <salute>Honored Sir.</salute>
+            </opener>
+            <p>THe Kings Majeſties forces in theſe parts (being pleaſed to honour themſelves with that gracious Title) under the command of the Lord <hi>Byron,</hi> (brother in law to the late Royal Heroe Sir <hi>Charls Lucas)</hi> are in a marching poſture, beating upon the Confines of <hi>Carnarvan,</hi> and other parts adjacent, leveling of forces, and ſummoning in the Country, but former experience, (touching their obedience to Sommons,) bids the In<g ref="char:EOLhyphen"/>habitants beware of a ſecond Engageme<g ref="char:cmbAbbrStroke">̄</g>, which (indeed) they obſerve as the forerunner and meſſenger to deſolati<g ref="char:EOLhyphen"/>on and deſtruction; And in ſtead of obeying any ſuch
+<pb n="2" facs="tcp:162221:3"/> ſummons, apprehends the Officers, who are to ex<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cute them; which proceed<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngs, evidently demonſtrates the re<g ref="char:EOLhyphen"/>alty and Reſolution of the wel affected in theſe parts; But the diſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffected, on the other ſide, are of a contrary diſpo<g ref="char:EOLhyphen"/>ſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, and inſtead of preſerving the peace of the Country, foments the diſtractions and differences, as appeares by their preſent complying with the adverſe party againſt our forces, divers of them aiming themſelves, ſome with long hookes, others with Swords and Halberts, inſomuch t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at the tyranny and oppreſſion of the moſt baſed of men hath been lately put in execution by them, who not long ſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce, fell upon ſome of our men in their quarters, killed a Gentleman belonging to Colonell <hi>Hortons</hi> Regiment, and moſt barborouſly murthered another, cutting of his throat at one Mr. <hi>Morgan Herberts</hi> houſe, in the County of <hi>Cardigan.</hi>
+            </p>
+            <p>The ſaid Mr. <hi>Herbert</hi> and his three Sons, being the chief Actors therein, who buried him in the Dunghill on the back ſide of their yard, but by divine providence in a ſhort time brought it to light, and divers of the bloudy Actors were apprehended and taken, and committed to ſafe Cuſto<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y.</p>
+            <p>The Lord <hi>Byron</hi> is very active in raiſing of forces, giving our many threatning ſpeeches againſt the Parlia<g ref="char:EOLhyphen"/>ment, ſaying,</p>
+            <p>That in a ſhort time, they will pole and clip them, and leave not a man alive of 'em, at <hi>Weſtminſter.</hi>
+            </p>
+            <p>Such threatnings is no novelty, we have had plenty of them in theſe parts, and in the height of them, had brought the chief Abettors thereof, to ſevere and con<g ref="char:EOLhyphen"/>digne puniſhment.</p>
+            <pb n="3" facs="tcp:162221:3"/>
+            <p> The aforeſaid Lord <hi>Byron,</hi> exceedeth far more tyran<g ref="char:EOLhyphen"/>nous, and barbarous then ever. He gives our, that he is reſolved, to be revenged of the Lord Gen <hi>Fairfax,</hi> for the death of Sir <hi>Charles Lucas</hi> (his brother in Law) and we hear, that he hath done ſomthing already (in relation thereunto) to ſome of the Parlaiments friends.</p>
+            <p>Col: <hi>Horton,</hi> and Col: <hi>Mitten,</hi> are marching towards <hi>An<g ref="char:EOLhyphen"/>gleſea,</hi> with agallant party of Horſe, Foot, &amp; Dragoons, to fight the ſaid <hi>Byron,</hi> or to force him into the Iſle; And up<g ref="char:EOLhyphen"/>on Saterday laſt, as our Intelligence ſaith, the Horſe faced each other, and after aſhort time, both parties advanced and prepared for an engagement, and after five of the clock in the evening, the forlornes were drawn out, char<g ref="char:EOLhyphen"/>ged each other, and after ſome diſpute, the Byronians re<g ref="char:EOLhyphen"/>treated, Colonell <hi>Hortons</hi> men perſued, in which perſuit, divers were forced to leave their horſes.</p>
+            <p>
+               <hi>Byrons</hi> Body of horſe perceiving this, wheeled about, and without one ſhot, force their way towards <hi>Angleſea,</hi> where ſome priſoners were taken, ſome killed, and woun<g ref="char:EOLhyphen"/>ded, the totall of is ſaid to be about ſixty, moſt of the ſaid forces are got into <hi>Angleſea,</hi> where (at preſent) they remaine.</p>
+            <p>Colonell <hi>Mitten,</hi> and Col. <hi>Horton,</hi> are in purſuit of them, and its hoped, will ſtop their paſſage, and prevent their comming out, for the future, which is all at preſent, from,</p>
+            <closer>
+               <dateline>Carnarvan <date>the 12. of Septemb. 1648.</date>
+               </dateline>
+               <signed>Your moſt oblieged, and af<g ref="char:EOLhyphen"/>fectionate friend, <hi>Thomas Wilkinſon.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="Oliver_Cromwells_declaration">
+            <pb n="4" facs="tcp:162221:4"/>
+            <head>The Remonſtrance &amp; Reſolution of the Right Honorable, and truly valiant, Lieut. Gen. CROMWELL, in behalf of all His Ma<g ref="char:EOLhyphen"/>jeſties loyall, and free born people of ENGLAND, concerning the Scottiſh Nation, &amp; their en<g ref="char:EOLhyphen"/>gaging againſt Religion, King, and Kingdom.</head>
+            <p>WHereas, the Scottiſh Army, under the Command of <hi>lames</hi> Duke of <hi>Hambleton,</hi> which la<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ely inva<g ref="char:EOLhyphen"/>ded this Nation of <hi>England,</hi> is by the bleſſing of God up<g ref="char:EOLhyphen"/>on the Parliaments Forces) defeated and overthrown, and ſome Thouſands of their Souldiers and Officers are now priſoners in our hands, ſo that by reaſon of their great number, and want of ſufficient Guards and Watches to keep them ſo carefully as need requires the Army being imployed upon other Duty and Service of the Kingdom) divers may eſcape away, and many (both ſince and upon the purſuit) lie in private places in the Country: I thought it very juſt and neceſſary to give notice to all, and accor<g ref="char:EOLhyphen"/>dingly to declare, That if any Scottiſhmen, Officers or Souldiers, lately Members of the ſaid Scottiſh Army, and taken or eſcaped in, or ſince the late fight and purſu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, ſhal be found ſtragling in the Countries, or runing away from the places aſſigned them to remain in, till the pleaſure of the Parl. or his Excellency the Lord Gen. be known, it will be accounted a very good and acceptable Service to the Country and Kingdom of <hi>England,</hi> for any perſon or
+<pb n="5" facs="tcp:162221:4"/> perſons to take and apprehend all ſuch Scottiſhmen, and to carrie them to any Officer having the charge of ſuch priſoners; or (for want of ſuch Officer) to the Commit<g ref="char:EOLhyphen"/>tee or Governour of the next Garriſon for the Parl. with<g ref="char:EOLhyphen"/>in the County where they ſhall be ſo taken, to be ſecured and kept in priſon, as they ſhall find moſt convenient. And the ſaid Committee, Officer, or Governour reſpe<g ref="char:EOLhyphen"/>ctively are deſired to ſecure ſuch of the ſaid priſoners as ſhall be ſo apprehended and brought unto them acco<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dingly. And if any of the ſaid Scottiſh Officers or Soul<g ref="char:EOLhyphen"/>diers, ſhall make any reſiſtance, and refuſe to be taken or render themſelves, all ſuch perſons wel aff<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted to the ſervice of the Parl. and Kingdom of <hi>England,</hi> may, and are deſired to fall upon, fight with, and ſl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y ſuch re<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſers. But if the ſaid priſoners ſhall continue and remain with<g ref="char:EOLhyphen"/>in the places and Guards aſſigned for the keeping of them, that then no violence, wrong, nor injury be offered to them by any means. Provided alſo, and ſpeciall care is to be taken, that no Scottiſhman, reſiding within this King<g ref="char:EOLhyphen"/>dom, and not having been a Member of the ſaid Army, or ſuch of the ſaid Scottiſh priſoners, as ſhall have liberty given them, and ſufficient paſſes to go to any place ap<g ref="char:EOLhyphen"/>pointed, may not be interrupted or troubled hereby.</p>
+            <p>
+               <hi>This Declaration and Remonſtrance being aſſented to by the Lieutenant Generall, and the reſt of the Officers of the Ar<g ref="char:EOLhyphen"/>my, were commanded to be forthwith printed and pub<g ref="char:EOLhyphen"/>liſhed.</hi>
+            </p>
+            <closer>
+               <signed>OLIVER CROMWELL</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:162221:5"/>
+            <head>The Reſolution of the Levellers of England, under the Com<g ref="char:EOLhyphen"/>mand of Col. Martin, and their preſent proceedings in Yorkſhire, and a bloudy Fight near Scarborough Caſtle, between the Princes Forces, and the Parliaments.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN my laſt. I gave you a Breviate of the laſt Occurren<g ref="char:EOLhyphen"/>ces, which happened in theſe parts; Since which time, we have received further Intelligence, that Col. <hi>Martin</hi> and Col. <hi>Ayres,</hi> with a party of Horſe (called Levellers) are come as far as <hi>Mansfield,</hi> their D<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſign is not known as yet, but their deportm<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt and carriage is very civill.</p>
+            <p>By a Gentleman from Col. <hi>Bethells</hi> Regiment, we have likewiſe received Intelligence, that the Prince of <hi>Wales</hi> hath ſent 2. or 300. Walloons into <hi>Scarborough</hi> Caſtle, to aſſiſt Col. <hi>Bointon,</hi> againſt the Parliament, and as it is ſaid, on Saturday morning laſt, ſallyed our upon Col. <hi>Be<g ref="char:EOLhyphen"/>thels</hi> men, charged with great fury; but after ſome diſpute being galled by our Musketiers, they retreated, 5, of them were killed, and 2. or 3. taken priſoners.</p>
+            <p>Colonell <hi>Loſſell</hi> is joyned with Col. <hi>Bethell,</hi> for the ſtrengthening of the ſiege, and they intend to ſtorm very ſuddenly.</p>
+            <closer>
+               <dateline>Beverley <date>the 11. of Septemb. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
